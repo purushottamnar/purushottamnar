@@ -19,7 +19,7 @@ K. J. Somaiya Institute of Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/purushottam-nar" target="blank">
+<a href="https://www.linkedin.com/in/purushottam-nar-b46942346/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/purushottam_nar/" target="blank">
