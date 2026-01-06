@@ -11,7 +11,7 @@ K. J. Somaiya Institute of Technology
 
 - 👨‍💻 I enjoy building **interactive interfaces, immersive game experiences, and creative digital products**
 
-- 📫 How to reach me: **narpurushottam26@gmail.com**
+- 📫 How to reach me: **purushottamnar26@gmail.com**
 
 - ⚡ Fun fact: **I love combining logic, design, and gameplay 🎮🎨**
 
